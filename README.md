@@ -8,7 +8,7 @@ Use fire-katanas(VR Controllers) to destroy approaching bamboo. Each one destroy
 * [HTC Vive headset/compatible Vr Headset](https://www.vive.com/eu/)
 
 ## Install
-- Download the project folders
+- Download the project folder
 - Open project with Unity3d
 - Build game 
 - Play build on PC+VR Set-up
