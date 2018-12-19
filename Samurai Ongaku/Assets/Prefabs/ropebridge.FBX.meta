@@ -1,0 +1,1317 @@
+fileFormatVersion: 2
+guid: f1560ef1d486d7f45ad63b268456efab
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Box002
+    100004: Box003
+    100006: Box003 1
+    100008: Box004
+    100010: Box005
+    100012: Box006
+    100014: Box007
+    100016: Box008
+    100018: Box009
+    100020: Box010
+    100022: Box011
+    100024: Box012
+    100026: Box013
+    100028: Box014
+    100030: Box015
+    100032: Box016
+    100034: Box017
+    100036: Box018
+    100038: Box019
+    100040: Box020
+    100042: Box021
+    100044: Box022
+    100046: Box023
+    100048: Box024
+    100050: Box025
+    100052: Box026
+    100054: Box027
+    100056: Box028
+    100058: Box029
+    100060: Box030
+    100062: Box031
+    100064: Box032
+    100066: Box033
+    100068: Box034
+    100070: Box035
+    100072: Box036
+    100074: Box037
+    100076: Box038
+    100078: Box039
+    100080: Box040
+    100082: Box041
+    100084: Box042
+    100086: Cylinder001
+    100088: Cylinder002
+    100090: Cylinder003
+    100092: Cylinder004
+    100094: Cylinder005
+    100096: Cylinder006
+    100098: Cylinder007
+    100100: Cylinder008
+    100102: Cylinder009
+    100104: Cylinder010
+    100106: Cylinder011
+    100108: Cylinder012
+    100110: Cylinder013
+    100112: Cylinder014
+    100114: Cylinder015
+    100116: Cylinder016
+    100118: Cylinder017
+    100120: Cylinder018
+    100122: Cylinder019
+    100124: Cylinder020
+    100126: Cylinder021
+    100128: Cylinder022
+    100130: Cylinder023
+    100132: Cylinder024
+    100134: Cylinder025
+    100136: Cylinder026
+    100138: Cylinder027
+    100140: Cylinder028
+    100142: Cylinder029
+    100144: Cylinder030
+    100146: Cylinder031
+    100148: Cylinder032
+    100150: Cylinder033
+    100152: Cylinder034
+    100154: Cylinder035
+    100156: Cylinder036
+    100158: Cylinder037
+    100160: Cylinder038
+    100162: Cylinder039
+    100164: Cylinder040
+    100166: Cylinder041
+    100168: Cylinder042
+    100170: Cylinder043
+    100172: Cylinder044
+    100174: Cylinder045
+    100176: Cylinder046
+    100178: Cylinder047
+    100180: Cylinder048
+    100182: Cylinder049
+    100184: Cylinder050
+    100186: Cylinder051
+    100188: Cylinder052
+    100190: Cylinder053
+    100192: Cylinder054
+    100194: Cylinder055
+    100196: Cylinder056
+    100198: Cylinder057
+    100200: Cylinder058
+    100202: Cylinder059
+    100204: Cylinder060
+    100206: Cylinder061
+    100208: Cylinder062
+    100210: Cylinder063
+    100212: Cylinder064
+    100214: Cylinder065
+    100216: Cylinder066
+    100218: Cylinder067
+    100220: Cylinder068
+    100222: Cylinder069
+    100224: Cylinder070
+    100226: Cylinder071
+    100228: Cylinder072
+    100230: Cylinder073
+    100232: Cylinder074
+    100234: Cylinder075
+    100236: Cylinder076
+    100238: Cylinder077
+    100240: Cylinder078
+    100242: Cylinder079
+    100244: Cylinder080
+    100246: Cylinder081
+    100248: Cylinder082
+    100250: Cylinder083
+    100252: Cylinder084
+    100254: Cylinder085
+    100256: Cylinder086
+    100258: pillar
+    100260: pillar 1
+    100262: pillar001
+    100264: pillar002
+    100266: pillar003
+    100268: pillar004
+    100270: pillar005
+    100272: pillar006
+    100274: pillars
+    100276: rope_tie
+    100278: rope_tie002
+    100280: rope_tie003
+    100282: rope_tie004
+    100284: rope_tie005
+    100286: rope_tie006
+    100288: rope_tie007
+    100290: rope_tie008
+    100292: rope_tie009
+    100294: rope_tie010
+    100296: rope_tie011
+    100298: rope_tie012
+    100300: rope_tie013
+    100302: rope_tie014
+    100304: rope_tie015
+    100306: rope_tie016
+    100308: //RootNode
+    100310: stepknots
+    100312: stepropes
+    100314: steps
+    100316: Torus Knot001
+    100318: Torus Knot002
+    100320: Torus Knot003
+    100322: Torus Knot004
+    100324: Torus Knot005
+    100326: Torus Knot006
+    100328: Torus Knot007
+    100330: Torus Knot008
+    100332: Torus Knot009
+    100334: Torus Knot010
+    100336: Torus Knot011
+    100338: Torus Knot012
+    100340: Torus Knot013
+    100342: Torus Knot014
+    100344: Torus Knot015
+    100346: Torus Knot016
+    100348: Torus Knot017
+    100350: Torus Knot018
+    100352: Torus Knot019
+    100354: Torus Knot020
+    100356: Torus Knot021
+    100358: Torus Knot022
+    100360: Torus Knot023
+    100362: Torus Knot024
+    100364: Torus Knot025
+    100366: Torus Knot026
+    100368: Torus Knot027
+    100370: Torus Knot028
+    100372: Torus Knot029
+    100374: Torus Knot030
+    100376: Torus Knot031
+    100378: Torus Knot032
+    100380: Torus Knot033
+    100382: Torus Knot034
+    100384: Torus Knot035
+    100386: Torus Knot036
+    100388: Torus Knot037
+    100390: Torus Knot038
+    100392: Torus Knot039
+    100394: Torus Knot040
+    100396: Torus Knot041
+    100398: Torus Knot042
+    100400: Torus Knot043
+    100402: Torus Knot044
+    100404: Torus Knot045
+    100406: Torus Knot046
+    100408: Torus Knot047
+    100410: Torus Knot048
+    100412: Torus Knot049
+    100414: Torus Knot050
+    100416: Torus Knot051
+    100418: Torus Knot052
+    100420: Torus Knot053
+    100422: Torus Knot054
+    100424: Torus Knot055
+    100426: Torus Knot056
+    100428: Torus Knot057
+    100430: Torus Knot058
+    100432: Torus Knot059
+    100434: Torus Knot060
+    100436: Torus Knot061
+    100438: Torus Knot062
+    100440: Torus Knot063
+    100442: Torus Knot064
+    100444: Torus Knot065
+    100446: Torus Knot066
+    100448: Torus Knot067
+    100450: Torus Knot068
+    100452: Torus Knot069
+    100454: Torus Knot070
+    100456: Torus Knot071
+    100458: Torus Knot072
+    100460: Torus Knot073
+    100462: Torus Knot074
+    100464: Torus Knot075
+    100466: Torus Knot076
+    100468: Torus Knot077
+    100470: Torus Knot078
+    100472: Torus Knot079
+    100474: Torus Knot080
+    100476: Torus Knot081
+    100478: Torus Knot082
+    100480: Torus Knot083
+    100482: Torus Knot084
+    100484: Torus Knot085
+    100486: Torus Knot086
+    100488: Torus Knot087
+    100490: Torus Knot088
+    100492: Torus Knot089
+    100494: Torus Knot090
+    400000: Box001
+    400002: Box002
+    400004: Box003
+    400006: Box003 1
+    400008: Box004
+    400010: Box005
+    400012: Box006
+    400014: Box007
+    400016: Box008
+    400018: Box009
+    400020: Box010
+    400022: Box011
+    400024: Box012
+    400026: Box013
+    400028: Box014
+    400030: Box015
+    400032: Box016
+    400034: Box017
+    400036: Box018
+    400038: Box019
+    400040: Box020
+    400042: Box021
+    400044: Box022
+    400046: Box023
+    400048: Box024
+    400050: Box025
+    400052: Box026
+    400054: Box027
+    400056: Box028
+    400058: Box029
+    400060: Box030
+    400062: Box031
+    400064: Box032
+    400066: Box033
+    400068: Box034
+    400070: Box035
+    400072: Box036
+    400074: Box037
+    400076: Box038
+    400078: Box039
+    400080: Box040
+    400082: Box041
+    400084: Box042
+    400086: Cylinder001
+    400088: Cylinder002
+    400090: Cylinder003
+    400092: Cylinder004
+    400094: Cylinder005
+    400096: Cylinder006
+    400098: Cylinder007
+    400100: Cylinder008
+    400102: Cylinder009
+    400104: Cylinder010
+    400106: Cylinder011
+    400108: Cylinder012
+    400110: Cylinder013
+    400112: Cylinder014
+    400114: Cylinder015
+    400116: Cylinder016
+    400118: Cylinder017
+    400120: Cylinder018
+    400122: Cylinder019
+    400124: Cylinder020
+    400126: Cylinder021
+    400128: Cylinder022
+    400130: Cylinder023
+    400132: Cylinder024
+    400134: Cylinder025
+    400136: Cylinder026
+    400138: Cylinder027
+    400140: Cylinder028
+    400142: Cylinder029
+    400144: Cylinder030
+    400146: Cylinder031
+    400148: Cylinder032
+    400150: Cylinder033
+    400152: Cylinder034
+    400154: Cylinder035
+    400156: Cylinder036
+    400158: Cylinder037
+    400160: Cylinder038
+    400162: Cylinder039
+    400164: Cylinder040
+    400166: Cylinder041
+    400168: Cylinder042
+    400170: Cylinder043
+    400172: Cylinder044
+    400174: Cylinder045
+    400176: Cylinder046
+    400178: Cylinder047
+    400180: Cylinder048
+    400182: Cylinder049
+    400184: Cylinder050
+    400186: Cylinder051
+    400188: Cylinder052
+    400190: Cylinder053
+    400192: Cylinder054
+    400194: Cylinder055
+    400196: Cylinder056
+    400198: Cylinder057
+    400200: Cylinder058
+    400202: Cylinder059
+    400204: Cylinder060
+    400206: Cylinder061
+    400208: Cylinder062
+    400210: Cylinder063
+    400212: Cylinder064
+    400214: Cylinder065
+    400216: Cylinder066
+    400218: Cylinder067
+    400220: Cylinder068
+    400222: Cylinder069
+    400224: Cylinder070
+    400226: Cylinder071
+    400228: Cylinder072
+    400230: Cylinder073
+    400232: Cylinder074
+    400234: Cylinder075
+    400236: Cylinder076
+    400238: Cylinder077
+    400240: Cylinder078
+    400242: Cylinder079
+    400244: Cylinder080
+    400246: Cylinder081
+    400248: Cylinder082
+    400250: Cylinder083
+    400252: Cylinder084
+    400254: Cylinder085
+    400256: Cylinder086
+    400258: pillar
+    400260: pillar 1
+    400262: pillar001
+    400264: pillar002
+    400266: pillar003
+    400268: pillar004
+    400270: pillar005
+    400272: pillar006
+    400274: pillars
+    400276: rope_tie
+    400278: rope_tie002
+    400280: rope_tie003
+    400282: rope_tie004
+    400284: rope_tie005
+    400286: rope_tie006
+    400288: rope_tie007
+    400290: rope_tie008
+    400292: rope_tie009
+    400294: rope_tie010
+    400296: rope_tie011
+    400298: rope_tie012
+    400300: rope_tie013
+    400302: rope_tie014
+    400304: rope_tie015
+    400306: rope_tie016
+    400308: //RootNode
+    400310: stepknots
+    400312: stepropes
+    400314: steps
+    400316: Torus Knot001
+    400318: Torus Knot002
+    400320: Torus Knot003
+    400322: Torus Knot004
+    400324: Torus Knot005
+    400326: Torus Knot006
+    400328: Torus Knot007
+    400330: Torus Knot008
+    400332: Torus Knot009
+    400334: Torus Knot010
+    400336: Torus Knot011
+    400338: Torus Knot012
+    400340: Torus Knot013
+    400342: Torus Knot014
+    400344: Torus Knot015
+    400346: Torus Knot016
+    400348: Torus Knot017
+    400350: Torus Knot018
+    400352: Torus Knot019
+    400354: Torus Knot020
+    400356: Torus Knot021
+    400358: Torus Knot022
+    400360: Torus Knot023
+    400362: Torus Knot024
+    400364: Torus Knot025
+    400366: Torus Knot026
+    400368: Torus Knot027
+    400370: Torus Knot028
+    400372: Torus Knot029
+    400374: Torus Knot030
+    400376: Torus Knot031
+    400378: Torus Knot032
+    400380: Torus Knot033
+    400382: Torus Knot034
+    400384: Torus Knot035
+    400386: Torus Knot036
+    400388: Torus Knot037
+    400390: Torus Knot038
+    400392: Torus Knot039
+    400394: Torus Knot040
+    400396: Torus Knot041
+    400398: Torus Knot042
+    400400: Torus Knot043
+    400402: Torus Knot044
+    400404: Torus Knot045
+    400406: Torus Knot046
+    400408: Torus Knot047
+    400410: Torus Knot048
+    400412: Torus Knot049
+    400414: Torus Knot050
+    400416: Torus Knot051
+    400418: Torus Knot052
+    400420: Torus Knot053
+    400422: Torus Knot054
+    400424: Torus Knot055
+    400426: Torus Knot056
+    400428: Torus Knot057
+    400430: Torus Knot058
+    400432: Torus Knot059
+    400434: Torus Knot060
+    400436: Torus Knot061
+    400438: Torus Knot062
+    400440: Torus Knot063
+    400442: Torus Knot064
+    400444: Torus Knot065
+    400446: Torus Knot066
+    400448: Torus Knot067
+    400450: Torus Knot068
+    400452: Torus Knot069
+    400454: Torus Knot070
+    400456: Torus Knot071
+    400458: Torus Knot072
+    400460: Torus Knot073
+    400462: Torus Knot074
+    400464: Torus Knot075
+    400466: Torus Knot076
+    400468: Torus Knot077
+    400470: Torus Knot078
+    400472: Torus Knot079
+    400474: Torus Knot080
+    400476: Torus Knot081
+    400478: Torus Knot082
+    400480: Torus Knot083
+    400482: Torus Knot084
+    400484: Torus Knot085
+    400486: Torus Knot086
+    400488: Torus Knot087
+    400490: Torus Knot088
+    400492: Torus Knot089
+    400494: Torus Knot090
+    2100000: 'Material #26'
+    2100002: 'Material #25'
+    2100004: 'Material #29'
+    2100006: 'Material #33'
+    2100008: 'Material #30'
+    2100010: 'Material #32'
+    2100012: 'Material #31'
+    2300000: Box001
+    2300002: Box002
+    2300004: Box003
+    2300006: Box003 1
+    2300008: Box004
+    2300010: Box005
+    2300012: Box006
+    2300014: Box007
+    2300016: Box008
+    2300018: Box009
+    2300020: Box010
+    2300022: Box011
+    2300024: Box012
+    2300026: Box013
+    2300028: Box014
+    2300030: Box015
+    2300032: Box016
+    2300034: Box017
+    2300036: Box018
+    2300038: Box019
+    2300040: Box020
+    2300042: Box021
+    2300044: Box022
+    2300046: Box023
+    2300048: Box024
+    2300050: Box025
+    2300052: Box026
+    2300054: Box027
+    2300056: Box028
+    2300058: Box029
+    2300060: Box030
+    2300062: Box031
+    2300064: Box032
+    2300066: Box033
+    2300068: Box034
+    2300070: Box035
+    2300072: Box036
+    2300074: Box037
+    2300076: Box038
+    2300078: Box039
+    2300080: Box040
+    2300082: Box041
+    2300084: Box042
+    2300086: Cylinder001
+    2300088: Cylinder002
+    2300090: Cylinder003
+    2300092: Cylinder004
+    2300094: Cylinder005
+    2300096: Cylinder006
+    2300098: Cylinder007
+    2300100: Cylinder008
+    2300102: Cylinder009
+    2300104: Cylinder010
+    2300106: Cylinder011
+    2300108: Cylinder012
+    2300110: Cylinder013
+    2300112: Cylinder014
+    2300114: Cylinder015
+    2300116: Cylinder016
+    2300118: Cylinder017
+    2300120: Cylinder018
+    2300122: Cylinder019
+    2300124: Cylinder020
+    2300126: Cylinder021
+    2300128: Cylinder022
+    2300130: Cylinder023
+    2300132: Cylinder024
+    2300134: Cylinder025
+    2300136: Cylinder026
+    2300138: Cylinder027
+    2300140: Cylinder028
+    2300142: Cylinder029
+    2300144: Cylinder030
+    2300146: Cylinder031
+    2300148: Cylinder032
+    2300150: Cylinder033
+    2300152: Cylinder034
+    2300154: Cylinder035
+    2300156: Cylinder036
+    2300158: Cylinder037
+    2300160: Cylinder038
+    2300162: Cylinder039
+    2300164: Cylinder040
+    2300166: Cylinder041
+    2300168: Cylinder042
+    2300170: Cylinder043
+    2300172: Cylinder044
+    2300174: Cylinder045
+    2300176: Cylinder046
+    2300178: Cylinder047
+    2300180: Cylinder048
+    2300182: Cylinder049
+    2300184: Cylinder050
+    2300186: Cylinder051
+    2300188: Cylinder052
+    2300190: Cylinder053
+    2300192: Cylinder054
+    2300194: Cylinder055
+    2300196: Cylinder056
+    2300198: Cylinder057
+    2300200: Cylinder058
+    2300202: Cylinder059
+    2300204: Cylinder060
+    2300206: Cylinder061
+    2300208: Cylinder062
+    2300210: Cylinder063
+    2300212: Cylinder064
+    2300214: Cylinder065
+    2300216: Cylinder066
+    2300218: Cylinder067
+    2300220: Cylinder068
+    2300222: Cylinder069
+    2300224: Cylinder070
+    2300226: Cylinder071
+    2300228: Cylinder072
+    2300230: Cylinder073
+    2300232: Cylinder074
+    2300234: Cylinder075
+    2300236: Cylinder076
+    2300238: Cylinder077
+    2300240: Cylinder078
+    2300242: Cylinder079
+    2300244: Cylinder080
+    2300246: Cylinder081
+    2300248: Cylinder082
+    2300250: Cylinder083
+    2300252: Cylinder084
+    2300254: Cylinder085
+    2300256: Cylinder086
+    2300258: pillar 1
+    2300260: pillar001
+    2300262: pillar003
+    2300264: pillar005
+    2300266: rope_tie
+    2300268: rope_tie002
+    2300270: rope_tie003
+    2300272: rope_tie004
+    2300274: rope_tie005
+    2300276: rope_tie006
+    2300278: rope_tie007
+    2300280: rope_tie008
+    2300282: rope_tie009
+    2300284: rope_tie010
+    2300286: rope_tie011
+    2300288: rope_tie012
+    2300290: rope_tie013
+    2300292: rope_tie014
+    2300294: rope_tie015
+    2300296: rope_tie016
+    2300298: Torus Knot001
+    2300300: Torus Knot002
+    2300302: Torus Knot003
+    2300304: Torus Knot004
+    2300306: Torus Knot005
+    2300308: Torus Knot006
+    2300310: Torus Knot007
+    2300312: Torus Knot008
+    2300314: Torus Knot009
+    2300316: Torus Knot010
+    2300318: Torus Knot011
+    2300320: Torus Knot012
+    2300322: Torus Knot013
+    2300324: Torus Knot014
+    2300326: Torus Knot015
+    2300328: Torus Knot016
+    2300330: Torus Knot017
+    2300332: Torus Knot018
+    2300334: Torus Knot019
+    2300336: Torus Knot020
+    2300338: Torus Knot021
+    2300340: Torus Knot022
+    2300342: Torus Knot023
+    2300344: Torus Knot024
+    2300346: Torus Knot025
+    2300348: Torus Knot026
+    2300350: Torus Knot027
+    2300352: Torus Knot028
+    2300354: Torus Knot029
+    2300356: Torus Knot030
+    2300358: Torus Knot031
+    2300360: Torus Knot032
+    2300362: Torus Knot033
+    2300364: Torus Knot034
+    2300366: Torus Knot035
+    2300368: Torus Knot036
+    2300370: Torus Knot037
+    2300372: Torus Knot038
+    2300374: Torus Knot039
+    2300376: Torus Knot040
+    2300378: Torus Knot041
+    2300380: Torus Knot042
+    2300382: Torus Knot043
+    2300384: Torus Knot044
+    2300386: Torus Knot045
+    2300388: Torus Knot046
+    2300390: Torus Knot047
+    2300392: Torus Knot048
+    2300394: Torus Knot049
+    2300396: Torus Knot050
+    2300398: Torus Knot051
+    2300400: Torus Knot052
+    2300402: Torus Knot053
+    2300404: Torus Knot054
+    2300406: Torus Knot055
+    2300408: Torus Knot056
+    2300410: Torus Knot057
+    2300412: Torus Knot058
+    2300414: Torus Knot059
+    2300416: Torus Knot060
+    2300418: Torus Knot061
+    2300420: Torus Knot062
+    2300422: Torus Knot063
+    2300424: Torus Knot064
+    2300426: Torus Knot065
+    2300428: Torus Knot066
+    2300430: Torus Knot067
+    2300432: Torus Knot068
+    2300434: Torus Knot069
+    2300436: Torus Knot070
+    2300438: Torus Knot071
+    2300440: Torus Knot072
+    2300442: Torus Knot073
+    2300444: Torus Knot074
+    2300446: Torus Knot075
+    2300448: Torus Knot076
+    2300450: Torus Knot077
+    2300452: Torus Knot078
+    2300454: Torus Knot079
+    2300456: Torus Knot080
+    2300458: Torus Knot081
+    2300460: Torus Knot082
+    2300462: Torus Knot083
+    2300464: Torus Knot084
+    2300466: Torus Knot085
+    2300468: Torus Knot086
+    2300470: Torus Knot087
+    2300472: Torus Knot088
+    2300474: Torus Knot089
+    2300476: Torus Knot090
+    3300000: Box001
+    3300002: Box002
+    3300004: Box003
+    3300006: Box003 1
+    3300008: Box004
+    3300010: Box005
+    3300012: Box006
+    3300014: Box007
+    3300016: Box008
+    3300018: Box009
+    3300020: Box010
+    3300022: Box011
+    3300024: Box012
+    3300026: Box013
+    3300028: Box014
+    3300030: Box015
+    3300032: Box016
+    3300034: Box017
+    3300036: Box018
+    3300038: Box019
+    3300040: Box020
+    3300042: Box021
+    3300044: Box022
+    3300046: Box023
+    3300048: Box024
+    3300050: Box025
+    3300052: Box026
+    3300054: Box027
+    3300056: Box028
+    3300058: Box029
+    3300060: Box030
+    3300062: Box031
+    3300064: Box032
+    3300066: Box033
+    3300068: Box034
+    3300070: Box035
+    3300072: Box036
+    3300074: Box037
+    3300076: Box038
+    3300078: Box039
+    3300080: Box040
+    3300082: Box041
+    3300084: Box042
+    3300086: Cylinder001
+    3300088: Cylinder002
+    3300090: Cylinder003
+    3300092: Cylinder004
+    3300094: Cylinder005
+    3300096: Cylinder006
+    3300098: Cylinder007
+    3300100: Cylinder008
+    3300102: Cylinder009
+    3300104: Cylinder010
+    3300106: Cylinder011
+    3300108: Cylinder012
+    3300110: Cylinder013
+    3300112: Cylinder014
+    3300114: Cylinder015
+    3300116: Cylinder016
+    3300118: Cylinder017
+    3300120: Cylinder018
+    3300122: Cylinder019
+    3300124: Cylinder020
+    3300126: Cylinder021
+    3300128: Cylinder022
+    3300130: Cylinder023
+    3300132: Cylinder024
+    3300134: Cylinder025
+    3300136: Cylinder026
+    3300138: Cylinder027
+    3300140: Cylinder028
+    3300142: Cylinder029
+    3300144: Cylinder030
+    3300146: Cylinder031
+    3300148: Cylinder032
+    3300150: Cylinder033
+    3300152: Cylinder034
+    3300154: Cylinder035
+    3300156: Cylinder036
+    3300158: Cylinder037
+    3300160: Cylinder038
+    3300162: Cylinder039
+    3300164: Cylinder040
+    3300166: Cylinder041
+    3300168: Cylinder042
+    3300170: Cylinder043
+    3300172: Cylinder044
+    3300174: Cylinder045
+    3300176: Cylinder046
+    3300178: Cylinder047
+    3300180: Cylinder048
+    3300182: Cylinder049
+    3300184: Cylinder050
+    3300186: Cylinder051
+    3300188: Cylinder052
+    3300190: Cylinder053
+    3300192: Cylinder054
+    3300194: Cylinder055
+    3300196: Cylinder056
+    3300198: Cylinder057
+    3300200: Cylinder058
+    3300202: Cylinder059
+    3300204: Cylinder060
+    3300206: Cylinder061
+    3300208: Cylinder062
+    3300210: Cylinder063
+    3300212: Cylinder064
+    3300214: Cylinder065
+    3300216: Cylinder066
+    3300218: Cylinder067
+    3300220: Cylinder068
+    3300222: Cylinder069
+    3300224: Cylinder070
+    3300226: Cylinder071
+    3300228: Cylinder072
+    3300230: Cylinder073
+    3300232: Cylinder074
+    3300234: Cylinder075
+    3300236: Cylinder076
+    3300238: Cylinder077
+    3300240: Cylinder078
+    3300242: Cylinder079
+    3300244: Cylinder080
+    3300246: Cylinder081
+    3300248: Cylinder082
+    3300250: Cylinder083
+    3300252: Cylinder084
+    3300254: Cylinder085
+    3300256: Cylinder086
+    3300258: pillar 1
+    3300260: pillar001
+    3300262: pillar003
+    3300264: pillar005
+    3300266: rope_tie
+    3300268: rope_tie002
+    3300270: rope_tie003
+    3300272: rope_tie004
+    3300274: rope_tie005
+    3300276: rope_tie006
+    3300278: rope_tie007
+    3300280: rope_tie008
+    3300282: rope_tie009
+    3300284: rope_tie010
+    3300286: rope_tie011
+    3300288: rope_tie012
+    3300290: rope_tie013
+    3300292: rope_tie014
+    3300294: rope_tie015
+    3300296: rope_tie016
+    3300298: Torus Knot001
+    3300300: Torus Knot002
+    3300302: Torus Knot003
+    3300304: Torus Knot004
+    3300306: Torus Knot005
+    3300308: Torus Knot006
+    3300310: Torus Knot007
+    3300312: Torus Knot008
+    3300314: Torus Knot009
+    3300316: Torus Knot010
+    3300318: Torus Knot011
+    3300320: Torus Knot012
+    3300322: Torus Knot013
+    3300324: Torus Knot014
+    3300326: Torus Knot015
+    3300328: Torus Knot016
+    3300330: Torus Knot017
+    3300332: Torus Knot018
+    3300334: Torus Knot019
+    3300336: Torus Knot020
+    3300338: Torus Knot021
+    3300340: Torus Knot022
+    3300342: Torus Knot023
+    3300344: Torus Knot024
+    3300346: Torus Knot025
+    3300348: Torus Knot026
+    3300350: Torus Knot027
+    3300352: Torus Knot028
+    3300354: Torus Knot029
+    3300356: Torus Knot030
+    3300358: Torus Knot031
+    3300360: Torus Knot032
+    3300362: Torus Knot033
+    3300364: Torus Knot034
+    3300366: Torus Knot035
+    3300368: Torus Knot036
+    3300370: Torus Knot037
+    3300372: Torus Knot038
+    3300374: Torus Knot039
+    3300376: Torus Knot040
+    3300378: Torus Knot041
+    3300380: Torus Knot042
+    3300382: Torus Knot043
+    3300384: Torus Knot044
+    3300386: Torus Knot045
+    3300388: Torus Knot046
+    3300390: Torus Knot047
+    3300392: Torus Knot048
+    3300394: Torus Knot049
+    3300396: Torus Knot050
+    3300398: Torus Knot051
+    3300400: Torus Knot052
+    3300402: Torus Knot053
+    3300404: Torus Knot054
+    3300406: Torus Knot055
+    3300408: Torus Knot056
+    3300410: Torus Knot057
+    3300412: Torus Knot058
+    3300414: Torus Knot059
+    3300416: Torus Knot060
+    3300418: Torus Knot061
+    3300420: Torus Knot062
+    3300422: Torus Knot063
+    3300424: Torus Knot064
+    3300426: Torus Knot065
+    3300428: Torus Knot066
+    3300430: Torus Knot067
+    3300432: Torus Knot068
+    3300434: Torus Knot069
+    3300436: Torus Knot070
+    3300438: Torus Knot071
+    3300440: Torus Knot072
+    3300442: Torus Knot073
+    3300444: Torus Knot074
+    3300446: Torus Knot075
+    3300448: Torus Knot076
+    3300450: Torus Knot077
+    3300452: Torus Knot078
+    3300454: Torus Knot079
+    3300456: Torus Knot080
+    3300458: Torus Knot081
+    3300460: Torus Knot082
+    3300462: Torus Knot083
+    3300464: Torus Knot084
+    3300466: Torus Knot085
+    3300468: Torus Knot086
+    3300470: Torus Knot087
+    3300472: Torus Knot088
+    3300474: Torus Knot089
+    3300476: Torus Knot090
+    4300000: rope_tie
+    4300002: pillar
+    4300004: rope_tie002
+    4300006: rope_tie003
+    4300008: rope_tie004
+    4300010: Torus Knot003
+    4300012: Torus Knot004
+    4300014: pillar001
+    4300016: rope_tie005
+    4300018: rope_tie006
+    4300020: rope_tie007
+    4300022: rope_tie008
+    4300024: Torus Knot001
+    4300026: Torus Knot002
+    4300028: pillar003
+    4300030: rope_tie009
+    4300032: rope_tie010
+    4300034: rope_tie011
+    4300036: rope_tie012
+    4300038: Torus Knot007
+    4300040: Torus Knot008
+    4300042: pillar005
+    4300044: rope_tie013
+    4300046: rope_tie014
+    4300048: rope_tie015
+    4300050: rope_tie016
+    4300052: Torus Knot005
+    4300054: Torus Knot006
+    4300056: Torus Knot009
+    4300058: Torus Knot010
+    4300060: Torus Knot011
+    4300062: Torus Knot012
+    4300064: Torus Knot013
+    4300066: Torus Knot014
+    4300068: Torus Knot015
+    4300070: Torus Knot016
+    4300072: Torus Knot017
+    4300074: Torus Knot018
+    4300076: Torus Knot019
+    4300078: Torus Knot020
+    4300080: Torus Knot021
+    4300082: Torus Knot022
+    4300084: Torus Knot023
+    4300086: Torus Knot024
+    4300088: Torus Knot025
+    4300090: Torus Knot026
+    4300092: Torus Knot027
+    4300094: Torus Knot028
+    4300096: Torus Knot029
+    4300098: Torus Knot030
+    4300100: Torus Knot031
+    4300102: Torus Knot032
+    4300104: Torus Knot033
+    4300106: Torus Knot034
+    4300108: Torus Knot035
+    4300110: Torus Knot036
+    4300112: Torus Knot037
+    4300114: Torus Knot038
+    4300116: Torus Knot039
+    4300118: Torus Knot040
+    4300120: Torus Knot041
+    4300122: Torus Knot042
+    4300124: Torus Knot043
+    4300126: Torus Knot044
+    4300128: Torus Knot045
+    4300130: Torus Knot046
+    4300132: Torus Knot047
+    4300134: Torus Knot048
+    4300136: Torus Knot049
+    4300138: Torus Knot050
+    4300140: Torus Knot051
+    4300142: Torus Knot052
+    4300144: Torus Knot053
+    4300146: Torus Knot054
+    4300148: Torus Knot055
+    4300150: Torus Knot056
+    4300152: Torus Knot057
+    4300154: Torus Knot058
+    4300156: Torus Knot059
+    4300158: Torus Knot060
+    4300160: Torus Knot061
+    4300162: Torus Knot062
+    4300164: Torus Knot063
+    4300166: Torus Knot064
+    4300168: Torus Knot065
+    4300170: Torus Knot066
+    4300172: Torus Knot067
+    4300174: Torus Knot068
+    4300176: Torus Knot069
+    4300178: Torus Knot070
+    4300180: Torus Knot071
+    4300182: Torus Knot072
+    4300184: Torus Knot073
+    4300186: Torus Knot074
+    4300188: Torus Knot075
+    4300190: Torus Knot076
+    4300192: Torus Knot077
+    4300194: Torus Knot078
+    4300196: Torus Knot079
+    4300198: Torus Knot080
+    4300200: Torus Knot081
+    4300202: Torus Knot082
+    4300204: Torus Knot083
+    4300206: Torus Knot084
+    4300208: Torus Knot085
+    4300210: Torus Knot086
+    4300212: Torus Knot087
+    4300214: Torus Knot088
+    4300216: Torus Knot089
+    4300218: Torus Knot090
+    4300220: Cylinder001
+    4300222: Cylinder002
+    4300224: Cylinder003
+    4300226: Cylinder004
+    4300228: Cylinder005
+    4300230: Cylinder006
+    4300232: Cylinder007
+    4300234: Cylinder008
+    4300236: Cylinder009
+    4300238: Cylinder010
+    4300240: Cylinder011
+    4300242: Cylinder012
+    4300244: Cylinder013
+    4300246: Cylinder014
+    4300248: Cylinder015
+    4300250: Cylinder016
+    4300252: Cylinder017
+    4300254: Cylinder018
+    4300256: Cylinder019
+    4300258: Cylinder020
+    4300260: Cylinder021
+    4300262: Cylinder022
+    4300264: Cylinder023
+    4300266: Cylinder024
+    4300268: Cylinder025
+    4300270: Cylinder026
+    4300272: Cylinder027
+    4300274: Cylinder028
+    4300276: Cylinder029
+    4300278: Cylinder030
+    4300280: Cylinder031
+    4300282: Cylinder032
+    4300284: Cylinder033
+    4300286: Cylinder034
+    4300288: Cylinder035
+    4300290: Cylinder036
+    4300292: Cylinder037
+    4300294: Cylinder038
+    4300296: Cylinder039
+    4300298: Cylinder040
+    4300300: Cylinder041
+    4300302: Cylinder042
+    4300304: Cylinder043
+    4300306: Cylinder044
+    4300308: Cylinder045
+    4300310: Cylinder046
+    4300312: Cylinder047
+    4300314: Cylinder048
+    4300316: Cylinder049
+    4300318: Cylinder050
+    4300320: Cylinder051
+    4300322: Cylinder052
+    4300324: Cylinder053
+    4300326: Cylinder054
+    4300328: Cylinder055
+    4300330: Cylinder056
+    4300332: Cylinder057
+    4300334: Cylinder058
+    4300336: Cylinder059
+    4300338: Cylinder060
+    4300340: Cylinder061
+    4300342: Cylinder062
+    4300344: Cylinder063
+    4300346: Cylinder064
+    4300348: Cylinder065
+    4300350: Cylinder066
+    4300352: Cylinder067
+    4300354: Cylinder068
+    4300356: Cylinder069
+    4300358: Cylinder070
+    4300360: Cylinder071
+    4300362: Cylinder072
+    4300364: Cylinder073
+    4300366: Cylinder074
+    4300368: Cylinder075
+    4300370: Cylinder076
+    4300372: Cylinder077
+    4300374: Cylinder078
+    4300376: Cylinder079
+    4300378: Cylinder080
+    4300380: Cylinder081
+    4300382: Cylinder082
+    4300384: Cylinder083
+    4300386: Cylinder084
+    4300388: Cylinder085
+    4300390: Cylinder086
+    4300392: Box001
+    4300394: Box002
+    4300396: Box003
+    4300398: Box003
+    4300400: Box004
+    4300402: Box005
+    4300404: Box006
+    4300406: Box007
+    4300408: Box008
+    4300410: Box009
+    4300412: Box010
+    4300414: Box011
+    4300416: Box012
+    4300418: Box013
+    4300420: Box014
+    4300422: Box015
+    4300424: Box016
+    4300426: Box017
+    4300428: Box018
+    4300430: Box019
+    4300432: Box020
+    4300434: Box021
+    4300436: Box022
+    4300438: Box023
+    4300440: Box024
+    4300442: Box025
+    4300444: Box026
+    4300446: Box027
+    4300448: Box028
+    4300450: Box029
+    4300452: Box030
+    4300454: Box031
+    4300456: Box032
+    4300458: Box033
+    4300460: Box034
+    4300462: Box035
+    4300464: Box036
+    4300466: Box037
+    4300468: Box038
+    4300470: Box039
+    4300472: Box040
+    4300474: Box041
+    4300476: Box042
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rope
+    second: {fileID: 2800000, guid: ac006dc6307ac1045a67b7548a54d478, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood
+    second: {fileID: 2800000, guid: e7a5077349d360f4fab170a2ab58f247, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
